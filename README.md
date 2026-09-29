@@ -9,15 +9,15 @@ through a simple webpage that i can pull up any time i want.
 
 ## Features
 
--About Me
--Skills
--My Goals
--Contanct
+- About Me
+- Skills
+- My Goals
+- Contanct
 
 ## Technologies Used
 
--HTML
--CSS
+- HTML
+- CSS
 
 ## Live Website
 
