@@ -1,25 +1,30 @@
-# Myinfo.com
+# Sanjay SRSM | Personal Page
 
-It has the basic information abt myself and my interests,a thing to introduce me well to most.to get a deeper,basic understanding of myself
-through a simple webpage that i can pull up any time i want.
+## Simple overview of use/purpose
+A personal webpage showcasing my interests, skills, goals, and basic information about me.
 
-## screenshot
+## Description
+This is a personal portfolio-style webpage created using HTML and CSS. It includes an About Me section, my skills, goals, and other information. The project was created to practice web development and present my interests in a simple webpage.
 
-<img width="1366" height="596" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/aabe84ba-2b81-4ab5-8376-1f50d561dd87" />
+## Screenshots
+<img width="1366" height="599" alt="hackclubus" src="https://github.com/user-attachments/assets/b50343be-1adc-4630-9de4-0936ea2f75f7" />
 
-## Features
+## Getting Started
 
-- About Me
-- Skills
-- My Goals
-- Contanct
+### Dependencies
+- A modern web browser such as Chrome, Edge, or Firefox.
+- No additional libraries or dependencies are required.
 
-## Technologies Used
+### Installing
+- Download or clone the project files.
+- Keep the HTML and any related files in the same project folder.
 
-- HTML
-- CSS
+### Executing program
+- Open the HTML file in a web browser.
+- Alternatively, open the deployed website using the provided live website link.
 
-## Live Website
+## Help
+If the webpage does not display correctly, make sure the HTML file and its related files are in the correct folder and that the browser is up to date.
 
-You can view my live website in...
-https://courageous-starlight-b839a2.netlify.app/
+## License
+This project is a personal project.
